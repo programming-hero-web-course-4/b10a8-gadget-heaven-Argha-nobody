@@ -4,12 +4,9 @@ import './App.css'
 function App() {
 
   return (
-    <>
-      
-      
+    <div className='min-h-[calc(100vh-188px)]'>
 
-
-    </>
+    </div>
   )
 }
 

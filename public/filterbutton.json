@@ -1,0 +1,152 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "iPhone 15 Pro Max",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-15-Plus-(2)-(5)-1544.jpg",
+      "category": "Smartphones",
+      "price": 1099,
+      "description": "The ultimate smartphone experience.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "48MP Main camera"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S24 Ultra",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S24-Ultra-Titanium-Black-1587.jpg",
+      "category": "Smartphones",
+      "price": 999,
+      "description": "The future of Android.",
+      "specification": [
+        "6.8-inch Dynamic AMOLED 2X display",
+        "Snapdragon 8 Gen 3",
+        "200MP Main camera"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 3,
+      "product_title": "MacBook Pro 14",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Macbook-Pro-M1-Chip-3-1.png",
+      "category": "Laptops",
+      "price": 1299,
+      "description": "Powerful performance for professionals.",
+      "specification": [
+        "14-inch Liquid Retina XDR display",
+        "M2 Pro chip",
+        "16-core GPU"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 4,
+      "product_title": "Sony PlayStation 5",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9no01UvOl5eyTKJI7TTk39vt-Au2w3lZUKg&s",
+      "category": "Gaming",
+      "price": 499,
+      "description": "Next-gen gaming console.",
+      "specification": [
+        "Custom 8-core CPU",
+        "Custom AMD GPU",
+        "Ultra-High Speed SSD"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 5,
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Apple-Watch-Series-8-GPS+Cellular-Midnight-4171.jpg",
+      "category": "Wearables",
+      "price": 399,
+      "description": "The ultimate smartwatch.",
+      "specification": [
+        "Always-On Retina display",
+        "Crash Detection",
+        "Temperature sensing"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 6,
+      "product_title": "Samsung Galaxy Watch 6",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-Watch6-Gold-5232.jpg",
+      "category": "Wearables",
+      "price": 299,
+      "description": "The stylish smartwatch.",
+      "specification": [
+        "Super AMOLED display",
+        "BioActive Sensor",
+        "Long battery life"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 7,
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/5318-55349.jpg",
+      "category": "Audio",
+      "price": 399,
+      "description": "Industry-leading noise cancellation.",
+      "specification": [
+        "High-Resolution Audio Wireless",
+        "Adaptive Sound Control",
+        "Comfortable fit"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 8,
+      "product_title": "Bose QuietComfort 45",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDoV4G2cPnp6cX17uviEt9CzJ-iR5JMqpEA&s",
+      "category": "Audio",
+      "price": 329,
+      "description": "Quiet comfort, redefined.",
+      "specification": [
+        "High-Resolution Audio Wireless",
+        "Adaptive Sound Control",
+        "Comfortable fit"
+      ],
+      "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 9,
+        "product_title": "Nintendo Switch OLED",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-oled-model-white-set/nintendo-switch-oled-model-white-set-01-500x500.webp",
+        "category": "Gaming",
+        "price": 349,
+        "description": "Portable gaming, reinvented.",
+        "specification": [
+          "7-inch OLED display",
+          "Upgraded Joy-Con controllers",
+          "Docked and handheld play"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 10,
+        "product_title": "Google Pixel 8 Pro",
+        "product_image": "https://lh3.googleusercontent.com/mrWOgZ28-tx8-d4i47ZtWHn843LQTO-Ku3B3loFPPv7RY7iy2fJ0ymnPJGO16QFKHJ3Sv1RcMGtAwXbKBHrnK6FCc0O8KEP63oo",
+        "category": "Smartphones",
+        "price": 999,
+        "description": "Pixel's best camera yet.",
+        "specification": [
+          "6.7-inch Smooth Display",
+          "Tensor G2 chip",
+          "48MP Main camera"
+        ],
+        "availability": true,
+        "rating": 4.6
+      }
+]
